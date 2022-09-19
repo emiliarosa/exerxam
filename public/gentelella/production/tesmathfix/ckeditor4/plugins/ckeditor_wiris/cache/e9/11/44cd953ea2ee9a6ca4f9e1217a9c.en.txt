@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 2 x cubed end root plus 2 over 3"},"status":"ok"}

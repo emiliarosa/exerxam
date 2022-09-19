@@ -1,0 +1,1 @@
+{"result":{"text":"8 increment rightwards arrow with 9 below and 8 on top"},"status":"ok"}

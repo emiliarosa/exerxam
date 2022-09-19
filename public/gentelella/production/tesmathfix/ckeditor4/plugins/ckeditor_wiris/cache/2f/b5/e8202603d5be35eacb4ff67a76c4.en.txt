@@ -1,0 +1,1 @@
+{"result":{"text":"x greater than 0 space d a n space x equals 1 space p a d a space x to the power of p equals fraction numerator square root of x square root of x square root of x end root end root over denominator x end fraction comma space m a k a space n i l a i space p space y a i t u space..."},"status":"ok"}

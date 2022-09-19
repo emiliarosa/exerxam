@@ -1,0 +1,1 @@
+{"result":{"text":"x vertical line x greater or equal than negative 8"},"status":"ok"}

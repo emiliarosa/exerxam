@@ -1,0 +1,1 @@
+{"result":{"text":"integral 8 x cubed minus 3 x squared plus x plus 5 space d x"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"limit as x rightwards arrow 4 of begin inline style fraction numerator 3 x squared minus 14 plus 8 over denominator x squared minus 3 x minus 4 end fraction end style"},"status":"ok"}

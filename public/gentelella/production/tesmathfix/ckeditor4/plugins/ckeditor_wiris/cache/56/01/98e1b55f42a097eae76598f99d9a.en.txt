@@ -1,0 +1,1 @@
+{"result":{"text":"open curly brackets x vertical line x less or equal than negative 26 space a t a u space x greater or equal than negative 22 close curly brackets"},"status":"ok"}

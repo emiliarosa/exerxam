@@ -1,0 +1,1 @@
+{"result":{"text":"x less than negative 2 over 5 a t a u space x greater than 2 over 5"},"status":"ok"}

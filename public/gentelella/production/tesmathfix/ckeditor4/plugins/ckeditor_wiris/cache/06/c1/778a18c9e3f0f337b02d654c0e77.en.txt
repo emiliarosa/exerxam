@@ -1,0 +1,1 @@
+{"result":{"text":"open curly brackets negative 11 over 2 less or equal than x less or equal than close open table attributes columnalign right end attributes row 1 row 2 end table close curly brackets"},"status":"ok"}

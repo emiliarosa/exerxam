@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2 x cubed over denominator 3 x to the power of 3 plus 3 end exponent end fraction"},"status":"ok"}

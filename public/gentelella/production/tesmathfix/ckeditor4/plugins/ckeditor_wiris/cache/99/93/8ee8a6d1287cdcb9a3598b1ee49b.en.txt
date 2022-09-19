@@ -1,0 +1,1 @@
+{"result":{"text":"left curly bracket x vertical line minus 8 less than x less than 4 right curly bracket"},"status":"ok"}

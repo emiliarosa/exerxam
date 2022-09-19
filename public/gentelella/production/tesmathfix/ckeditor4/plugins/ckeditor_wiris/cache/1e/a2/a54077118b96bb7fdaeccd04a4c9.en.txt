@@ -1,0 +1,1 @@
+{"result":{"text":"cube root of 8 to the power of x plus 2 end exponent end root equals open parentheses 1 over 32 close parentheses to the power of 2 minus x end exponent"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator a to the power of 8 b squared over denominator x to the power of 5 y cubed end fraction"},"status":"ok"}

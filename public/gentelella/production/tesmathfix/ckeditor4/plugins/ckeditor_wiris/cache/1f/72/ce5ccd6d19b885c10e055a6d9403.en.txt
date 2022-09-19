@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 8 a to the power of 7 c to the power of 4 over denominator b to the power of 8 c to the power of 6 end fraction"},"status":"ok"}

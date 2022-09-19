@@ -1,0 +1,1 @@
+{"result":{"text":"negative infinity less than x less than 2 space space"},"status":"ok"}

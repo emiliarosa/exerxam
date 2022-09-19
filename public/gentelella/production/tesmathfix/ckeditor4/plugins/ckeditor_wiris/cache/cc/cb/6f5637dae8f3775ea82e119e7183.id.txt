@@ -1,0 +1,1 @@
+{"result":{"text":"beta space d a r i space p e r tan y a a n"},"status":"ok"}

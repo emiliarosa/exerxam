@@ -1,0 +1,1 @@
+{"result":{"text":"left curly bracket x vertical line x greater than negative 4 right curly bracket"},"status":"ok"}

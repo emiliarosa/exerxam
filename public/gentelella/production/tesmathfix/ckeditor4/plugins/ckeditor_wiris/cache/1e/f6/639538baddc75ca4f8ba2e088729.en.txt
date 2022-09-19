@@ -1,0 +1,1 @@
+{"result":{"text":"left curly bracket x vertical line x element of R right curly bracket"},"status":"ok"}

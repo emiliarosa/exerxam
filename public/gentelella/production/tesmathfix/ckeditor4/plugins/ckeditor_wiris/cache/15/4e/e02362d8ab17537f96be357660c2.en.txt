@@ -1,0 +1,1 @@
+{"result":{"text":"0 less than x less than infinity space space a t a u space minus infinity less than x less than 4"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"2 x to the power of 4 plus x cubed plus plus 1 half x squared plus 5 x plus c"},"status":"ok"}

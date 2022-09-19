@@ -1,0 +1,1 @@
+{"result":{"text":"integral subscript blank left parenthesis 2 x plus 5 right parenthesis d x"},"status":"ok"}

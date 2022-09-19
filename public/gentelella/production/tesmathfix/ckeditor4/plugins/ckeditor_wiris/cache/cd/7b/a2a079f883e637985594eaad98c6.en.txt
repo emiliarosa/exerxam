@@ -1,0 +1,1 @@
+{"result":{"text":"open curly brackets x vertical line minus 2 less than x less than 6 close curly brackets"},"status":"ok"}

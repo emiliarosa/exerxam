@@ -1,0 +1,1 @@
+{"result":{"text":"open curly brackets x vertical line x greater or equal than negative 26 close curly brackets"},"status":"ok"}

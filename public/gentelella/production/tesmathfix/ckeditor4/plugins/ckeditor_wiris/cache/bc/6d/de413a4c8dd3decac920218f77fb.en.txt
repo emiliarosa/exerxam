@@ -1,0 +1,1 @@
+{"result":{"text":"negative 3 less than x less than negative 1 space a t a u space 1 less than x less than 3"},"status":"ok"}

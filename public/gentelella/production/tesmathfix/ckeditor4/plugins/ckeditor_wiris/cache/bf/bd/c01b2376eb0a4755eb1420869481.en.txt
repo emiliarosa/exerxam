@@ -1,0 +1,1 @@
+{"result":{"text":"left curly bracket x vertical line x less or equal than negative 1 a t a u x greater or equal than 6 right curly bracket"},"status":"ok"}
